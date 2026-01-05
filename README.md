@@ -30,3 +30,10 @@ Docker Terminal에서의 한글 깨짐 문제 해결
 export LC_ALL=C.UTF-8
 ```
 <img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/1d8c4a6c-77d5-41e5-a5fc-e387854cda80" />
+
+### ➲ 0010
+<img width="1010" height="487" alt="image" src="https://github.com/user-attachments/assets/76e14461-ea4b-471b-be48-bfd4e8c9d747" />
+<img width="2358" height="1650" alt="image" src="https://github.com/user-attachments/assets/9879e124-dd76-4b37-be5b-fe089f61ef32" />
+
+
+
