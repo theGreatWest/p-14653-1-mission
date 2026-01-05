@@ -39,6 +39,8 @@ export LC_ALL=C.UTF-8
 <img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/e3f7d78f-04f3-4865-8c46-1abc12e814fe" />
 <img width="1010" height="487" alt="image" src="https://github.com/user-attachments/assets/7cb2550d-6bd2-4a0c-bf66-3dd21fce7fee" />
 
+### ➲ 0012
+<img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/0602e43b-d538-46c6-a396-26e2e8c7f64b" />
 
 
 
