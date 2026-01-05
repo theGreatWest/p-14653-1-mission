@@ -23,3 +23,10 @@
 
 ### ➲ 0008
 <img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/b8d08e7d-4b69-433f-9df2-5a7561c9613f" />
+
+### ➲ 0009
+Docker Terminal에서의 한글 깨짐 문제 해결
+```bash
+export LC_ALL=C.UTF-8
+```
+<img width="2446" height="1738" alt="image" src="https://github.com/user-attachments/assets/1d8c4a6c-77d5-41e5-a5fc-e387854cda80" />
